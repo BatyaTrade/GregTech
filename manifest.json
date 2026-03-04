@@ -3,6 +3,7 @@
     "minecraft": "1.20.1",
     "forge": "47.4.13",
     "download": {
-        "url": "https://github.com/BatyaTrade/GregTech/releases/download/v1.0.0/GregTech_Odyssey.zip"
+        "type": "google",
+        "url": "https://drive.google.com/file/d/1px2R_F7gn0I-nTo-GX-RwznyfJifClrT/view"
     }
 }
