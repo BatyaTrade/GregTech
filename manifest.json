@@ -2,10 +2,10 @@
   "version": "1.1.7",
   "minecraft": "1.20.1",
   "forge": "47.4.13",
-  "packageType": "client",
+  "packageType": "modpack",
   "download": {
     "url": "https://github.com/BatyaTrade/GregTech/releases/download/v1.1.7/GregTech_Odyssey.zip",
-    "sha256": "df077942061cb5aa196965de3446140f31e1eb50a7d67be0754473d0a634ca9f",
-    "size": 1512575217
+    "sha256": "468d07708622e5dc01083f698bc69a5180af8e96b7e416874fd4df1585eb9ead",
+    "size": 536957228
   }
 }
