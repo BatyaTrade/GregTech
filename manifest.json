@@ -1,8 +1,11 @@
 {
-    "version": "1.1.3",
-    "minecraft": "1.20.1",
-    "forge": "47.4.13",
-    "download": {
-        "url": "https://github.com/BatyaTrade/GregTech/releases/download/v1.1.3/GregTech_Odyssey.zip"
-    }
+  "version": "1.1.6",
+  "minecraft": "1.20.1",
+  "forge": "47.4.13",
+  "packageType": "client",
+  "download": {
+    "url": "https://github.com/BatyaTrade/GregTech/releases/download/v1.1.6/GregTech_Odyssey.zip",
+    "sha256": "df077942061cb5aa196965de3446140f31e1eb50a7d67be0754473d0a634ca9f",
+    "size": 1512575217
+  }
 }
